@@ -4,14 +4,14 @@
 3. Run: python main.py --file doc3.pdf --jurisdiction India --role client
 
 ## Input:
-File (.pdf or .docx)
-Jurisdiction(preferably country name like India, UK, USA...)
-Role of User(lawyer/client/vendor ...)
+File (.pdf or .docx) <br>
+Jurisdiction(preferably country name like India, UK, USA...) <br>
+Role of User(lawyer/client/vendor ...) <br>
 
 ## Output:
- {
-    "clause_number": ,
-    "clause_text": ,
-    "clause_risk": "low/medium/high",
-    "negotiation": 
+ { <br>
+    "clause_number": , <br>
+    "clause_text": , <br>
+    "clause_risk": "low/medium/high", <br>
+    "negotiation": <br>
 }
