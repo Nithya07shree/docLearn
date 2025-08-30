@@ -1,0 +1,4 @@
+google-cloud-aiplatform
+PyPDF2
+asyncio  # Built-in, but for clarity
+tenacity
